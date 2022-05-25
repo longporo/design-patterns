@@ -1,4 +1,6 @@
-# The Pracices about Software Design Patterns and SOLID Principles in C#
+# Course Project from Maynooth University
+## CS264 Software Design
+### The Pracices about Software Design Patterns and SOLID Principles in C#
 The is a set of practices about Software Design Patterns and SOLID Principles in C#.
 
 The code examples are my own design for better understand.
