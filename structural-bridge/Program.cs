@@ -4,6 +4,7 @@ namespace strutural_bridge
 {
     /// <summary>
     /// Bridge Design Pattern
+    /// Decouples an abstraction from its implementation so that the two can vary independently
     /// </summary>
     public class Program
     {
